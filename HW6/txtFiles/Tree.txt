@@ -1,0 +1,18 @@
+Q:
+Is it an animal?
+Q:
+Does it use electricity?
+A:
+book
+A:
+computer
+Q:
+Does it hop?
+A:
+dog
+Q:
+Does it have fur? (y/n)
+A:
+frog
+A:
+bunny
