@@ -1,0 +1,4 @@
+4     Nick Schmidt     44444     15.30     25
+1     Bob Lincoln     11111     105500
+3     Hank Aaron     33333     63
+2     Linda Gomez     22222     15.75     40
