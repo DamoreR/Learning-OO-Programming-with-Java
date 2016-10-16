@@ -1,4 +1,2 @@
 # OO-Labs
-Learning object-oriented programming with java
-
-Source files for each lab provided. 
+Source files from when I was first learning object-oriented programming with Java. 
